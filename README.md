@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 :computer: Estudiante de programción-ciberseguridad
+
 :pencil: Didi conductor
+
 :oncoming_automobile: Me gusta el futbol y la gimnasia
+
 :family: !El esposo más feliz del mundo¡
 
 ### Vias de contacto
