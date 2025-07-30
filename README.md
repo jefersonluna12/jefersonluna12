@@ -13,3 +13,8 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.youtube.com%2F)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jefersonluna12/jefersonluna12)
+
+### :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
